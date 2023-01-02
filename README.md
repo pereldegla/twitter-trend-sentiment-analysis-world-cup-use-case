@@ -33,7 +33,9 @@ Run the batch processing script: python batch_ingestion.py
 Run the analysis notebook: merge_and_sentiment_analysis.ipynb
 
 ## Additional Notes
-The project can be further improved by using natural language processing techniques to better understand the sentiment of the tweets.
+The use of this can be at a much bigger scale : studying the behavior of football fans from different teams during a whole league duration and watching the score decrease as their team loses 5 home games in a row.
+
+The project can also be further improved by using natural language processing techniques to better understand the sentiment of the tweets.
 
 The project can also be extended to analyze the sentiment towards other teams or players during the World Cup.
 
