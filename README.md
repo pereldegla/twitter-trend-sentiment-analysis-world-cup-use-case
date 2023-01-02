@@ -4,7 +4,7 @@ This project aims to analyze the sentiment of Twitter users towards the France f
 
 This approach is 100% cloud and doesn't require any installation if you work with the same exact stack. For context, Spark and Kafka are a pain to install. The notebooks for the consumer, producer and batch_ingestion can be found in Notebooks folder so you can import them in your Databricks environment.
 
-The sentiment analysis part needs an understanding of the Twitter target users linguo.
+The sentiment analysis part needs an understanding of the Twitter target users linguo. If you try to understand the words lists, you'll see there are a lot of words and expressions that don't make sense on paper.
 
 ## Technologies Used
 Python
