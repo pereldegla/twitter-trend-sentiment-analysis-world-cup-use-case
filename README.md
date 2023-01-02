@@ -1,4 +1,4 @@
-# Twitter trend sentiment analysis: A World Cup Use Case - France Football Team 
+# Twitter trend sentiment analysis: A 2022 World Cup Use Case - France Football Team's run
 
 This project aims to analyze the sentiment of Twitter users towards the France football team during the World Cup. The tweets are collected using the Twitter API in both batch and streaming mode and processed using Apache Spark on Databricks. The processed data is stored in raw data tables. The whole merged data is then processed using a simple "when" function with two lists of words and the results are stored in refined tables for visualization and analysis.
 
@@ -34,6 +34,8 @@ Run the analysis notebook: merge_and_sentiment_analysis.ipynb
 
 ## Additional Notes
 The use of this can be at a much bigger scale : studying the behavior of football fans from different teams during a whole league duration and watching the score decrease as their team loses 5 home games in a row.
+
+This could help community manager, TV show producers or marketers to get better insights on the audience response to their content, provided the sample size is big enough.
 
 The project can also be further improved by using natural language processing techniques to better understand the sentiment of the tweets.
 
