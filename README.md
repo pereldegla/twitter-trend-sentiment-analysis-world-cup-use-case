@@ -42,5 +42,3 @@ This could help community manager, TV show producers or marketers to get better 
 The project can also be further improved by using natural language processing techniques to better understand the sentiment of the tweets.
 
 The project can also be extended to analyze the sentiment towards other teams or players during the World Cup.
-
-This README was 80% written using ChatGPT
